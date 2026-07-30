@@ -10,7 +10,7 @@ concern.
 
 ![Retail rice price trend, 1996–2022](assets/price_trend.png)
 
-*Sample illustration of the retail price trend, showing the sharp spike during the
+Sample illustration of the retail price trend, showing the sharp spike during the
 2021–2022 crisis.
 
 This project builds a simple Python-based solution that predicts the monthly retail
@@ -65,4 +65,3 @@ Below is a sample actual-vs-predicted plot in the style the notebook produces.
 A walkthrough demo of this project is available in this repo:
 [`rice_price_prediction_sl_demo.mp4`](rice_price_prediction_sl_demo.mp4)
 
-On GitHub, clicking the link above will let you stream/download the video directly.
